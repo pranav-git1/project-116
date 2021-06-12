@@ -1,0 +1,10 @@
+.font {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.color {
+    background-color: palegoldenrod;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
